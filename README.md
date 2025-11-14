@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first HTML webpage where I will apply all skills that I have learned so far: (1) working in VS Code; (2) applying the HTML boilerplate; (3) working with titles, headlines, text, links and images; (4) applying correct indentation and order. # odin-recipes
